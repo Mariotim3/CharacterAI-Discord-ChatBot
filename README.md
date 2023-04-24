@@ -27,8 +27,8 @@ IF YOU DO NOT WANT TO USE YOUR CHARACTER.AI TOKEN, YOU CAN MODIFY THE CODE TO WO
 
 TO DO THIS, GO TO LINE 76 AND ->
 
-CHANGE: *await newCharacter.authenticateWithToken(CHARACTER_AI_TOKEN); 
+CHANGE: *await newCharacter.authenticateWithToken(CHARACTER_AI_TOKEN);*
 
-TO: *await newCharacter.authenticateAsGuest();
+TO: *await newCharacter.authenticateAsGuest();*
 
-*(DISCORD TOKEN WILL STILL BE REQUIRED BECAUSE IT IS NEEDED TO RUN THE BOTS!)
+*(DISCORD TOKEN WILL STILL BE REQUIRED BECAUSE IT IS NEEDED TO RUN THE BOTS!)*
