@@ -5,11 +5,14 @@ This code is open-sourced and created by Mariotim3, it uses https://github.com/r
 Huge thanks to realcoloride on GitHub for making this possible.
 Check him out here! -> https://github.com/realcoloride
 
-# PREREQUISITES 
+# PREREQUISITES
 
 1. NODE.JS MUST BE INSTALLED AND ADDED TO PATH. https://nodejs.org
+
 2. THE node_characterai PACKAGE MUST BE INSTALLED. (npm install node_characterai)
+
 3. THE discord.js PACKAGE MUST BE INSTALLED. (THIS VERSION MAY CHANGE IN THE FUTURE, SO JUST A HEADS UP!)
+
 4. GOOGLE CHROME MUST BE INSTALLED. (YES I MEAN GOOGLE CHROME, NOT MICROSOFT EDGE OR ANOTHER BROWSER!) THIS IS BECAUSE ONE OF THE INNER PACKAGES USES A FETCHING FUNCTION THROUGH IT.
 
 5. IF YOU GET ANY ISSUES RUNNING THIS, TRY CHECKING THAT YOU HAVE EVERYTHING INSTALLED PROPERLY. ALSO REFER TO https://github.com/realcoloride/node_characterai.
