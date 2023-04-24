@@ -2,7 +2,7 @@
 A simple Discord Bot template that uses an unofficial Character.ai API wrapper to chat with users.
 
 This code is open-sourced and created by Mariotim3 & realcoloride, it uses https://github.com/realcoloride/node_characterai (unofficial character.ai API wrapper) package for the majority of the script. 
-Huge thanks to realcoloride on GitHub for making this possible.
+Huge thanks to him on GitHub for making this possible.
 Check him out here! -> https://github.com/realcoloride
 
 # ⏱️PREREQUISITES
