@@ -5,7 +5,7 @@ This code is open-sourced and created by Mariotim3, it uses https://github.com/r
 Huge thanks to realcoloride on GitHub for making this possible.
 Check him out here! -> https://github.com/realcoloride
 
-- PREREQUISITES -
+# PREREQUISITES 
 
 1. NODE.JS MUST BE INSTALLED AND ADDED TO PATH. https://nodejs.org
 2. THE node_characterai PACKAGE MUST BE INSTALLED. (npm install node_characterai)
@@ -17,7 +17,7 @@ IF YOU STILL CAN'T SEEM TO GET IT WORKING, REPORT THE ISSUE ON MY GITHUB OR SHOO
 THANKS!
 
 
-- CAUTION WITH TOKENS -
+# CAUTION WITH TOKENS
 
 NEVER SHARE YOUR TOKENS WITH ANYONE! THIS ALLOWS THEM TO LOGIN AS YOU AND HACK YOUR CONTENT.
 IF YOU DO NOT WANT TO USE YOUR CHARACTER.AI TOKEN, YOU CAN MODIFY THE CODE TO WORK USING THE GUEST VERSION.
